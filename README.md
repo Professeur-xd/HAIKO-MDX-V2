@@ -37,7 +37,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/Professeur-xd/HAIKO-MDX-V2/fork"><img title="CRAZY-V2" src="https://img.shields.io/badge/FORK-HAIKO-MDX-V2-h?color=green&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Professeur-xd/HAIKO-MDX-V2/fork"><img title="HAIKO-MDX-V2" src="https://img.shields.io/badge/FORK-HAIKO-MDX-V2-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
   
 
